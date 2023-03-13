@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-174394?style=for-the-badge&logo=python&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://go.dev/">
-    <img src="https://img.shields.io/badge/GO-174394?style=for-the-badge&logo=python&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/GO?style=for-the-badge&logo=golang&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white" alt="LinkedIn Badge"/>
